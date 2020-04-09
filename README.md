@@ -1,0 +1,2 @@
+# pandemie-mondiale-corona
+L'objectif du projet est de mettre en place une application qui va intégrer, la prise de température de l'utilisateur soit en scannant son visage ou en en utilisant la chaleur observée dans la paume ou encore par empreinte digitale. Egalement, un questionnaire qui permettra de savoir si l'utilisateur s'est retrouvé sur une zone à risque ou est entré en contact avec une personne contaminée. Enfin, une alerte sur une plateforme pour signaler la personne si toutefois elle serait porteuse du virus en le géolocalisant.
